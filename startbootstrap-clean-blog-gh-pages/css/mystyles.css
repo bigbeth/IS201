@@ -1,0 +1,13 @@
+li {font-size: 20px;
+    font-style: italic;
+    font-weight: normal;}
+
+a {color: rgb(4, 45, 133);
+    text-decoration: none;}
+
+a:hover {text-decoration: underline;}
+
+a:visited { color: rgb(158, 158, 182);}
+
+.myfont {color: darkgrey;
+        }
